@@ -12,13 +12,13 @@ This dataset is developed from SHREC2O21 (T. Ku, S. Galanakis, B. Boom et al., S
 ## Pretrainde Model
 The pretrained model for PCCD is available at [[Google Drive]](https://drive.google.com/drive/folders/1ehQbfsGvOv4syc98r5PlhJDV88Q3bQlg?usp=sharing) and [[Baiduyun]](https://pan.baidu.com/s/1IUy8WFIggkIsHNyR8rTG-w) (the password is: qjmf).
 ## Test
-Before test, please download datasets and pretrained models. Change path to your data path in config.py. Copy pretrained models to folder './outputs/best_weights', and run the following command: 
+Before test, please download datasets and pretrained models. Change path to your data path in configs.py. Copy pretrained models to folder './outputs/best_weights', and run the following command: 
 ```
 cd 3DCDNet_ROOT
 python test.py
 ```
 ## Training
-Before training, please download datasets and revise dataset path in config.py to your path.
+Before training, please download datasets and revise dataset path in configs.py to your path.
 cd 3DCDNet_ROOT
 ```
 python -m visdom.server
