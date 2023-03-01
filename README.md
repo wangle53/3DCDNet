@@ -19,8 +19,8 @@ python test.py
 ```
 ## Training
 Before training, please download datasets and revise dataset path in configs.py to your path.
-cd 3DCDNet_ROOT
 ```
+cd 3DCDNet_ROOT
 python -m visdom.server
 python train.py
 ```
