@@ -28,8 +28,10 @@ python -m visdom.server
 python train.py
 ```
 To display training processing, open 'http://localhost:8097' in your browser.
-## Citing TransCD
+## Citing 3DCDNet
 If you use this repository or would like to refer the paper, please use the following BibTex entry.
 ## Reference
 -T. Ku, S. Galanakis, B. Boom et al., SHREC 2021: 3D Point cloud change detection for street scenes, Computers & Graphics, https://doi.org/10.1016/j.cag.2021.07.004  
 -HU, Qingyong, et al. Randla-net: Efficient semantic segmentation of large-scale point clouds. In: Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2020. p. 11108-11117.
+## More
+[My personal google web](https://scholar.google.com/citations?user=qdkY0jcAAAAJ&hl=zh-TW)
