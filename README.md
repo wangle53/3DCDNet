@@ -1,4 +1,4 @@
-# 3DCDNet: An End-to-end Point-based Method and A New Dataset for Street Level Point Cloud Change Detection  
+# 3DCDNet 
 ![image](https://user-images.githubusercontent.com/79884379/222049705-65fe8a0f-a9f3-47fd-acd0-868a7cebc0be.png)
 ![image](https://user-images.githubusercontent.com/79884379/222050216-115c0934-8d37-4e7f-af38-6728b7bb779e.png)
 
