@@ -35,3 +35,6 @@ If you use this repository or would like to refer the paper, please use the foll
 -HU, Qingyong, et al. Randla-net: Efficient semantic segmentation of large-scale point clouds. In: Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2020. p. 11108-11117.
 ## More
 [My personal google web](https://scholar.google.com/citations?user=qdkY0jcAAAAJ&hl=zh-TW)
+<p> 
+  <a href="https://scholar.google.com/citations?user=qdkY0jcAAAAJ&hl=zh-TW"><img src="https://img.shields.io/badge/scholar-4385FE.svg?&style=plastic&logo=google-scholar&logoColor=white" alt="Google Scholar" height="25px"> </a>
+</p> 
