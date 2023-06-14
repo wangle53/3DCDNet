@@ -28,6 +28,8 @@ python -m visdom.server
 python train.py
 ```
 To display training processing, open 'http://localhost:8097' in your browser.
+## Experiments on Urb3DCD dataset
+The experiments on Urb3DCD dataset can be found from [this link](https://github.com/wangle53/3DCDNet-Urb3DCD).
 ## Citing 3DCDNet
 If you use this repository or would like to refer the paper, please use the following BibTex entry.
 ## Reference
