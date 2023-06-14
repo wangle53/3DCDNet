@@ -12,7 +12,7 @@ torchvision 0.9.0
 ```
 ## SLPCCD Dataset
 This dataset is developed from SHREC2O21 (T. Ku, S. Galanakis, B. Boom et al., SHREC 2021: 3D Point cloud change detection for street scenes, Computers & Graphics, https://doi.org/10.1016/j.cag.2021.07.004). It is a new 3D change detection benchmark dataset and aims to provide opportunities for researchers to develop novel 3D change detection algorithms. The dataset is available at [[Google Drive]](https://drive.google.com/drive/folders/1iwiKVBSFmUdSVhXlix2uVBVpTRzsjkLF?usp=sharing) and [[Baiduyun]](https://pan.baidu.com/s/1XkLOHYKZJj0nYWzCBkIsJg) (the password is: quid). 
-## Pretrainde Model
+## Pretrained Model
 The pretrained model for SLPCCD is available at [[Google Drive]](https://drive.google.com/drive/folders/1ehQbfsGvOv4syc98r5PlhJDV88Q3bQlg?usp=sharing) and [[Baiduyun]](https://pan.baidu.com/s/1IUy8WFIggkIsHNyR8rTG-w) (the password is: qjmf).
 ## Test
 Before test, please download datasets and pretrained models. Change path to your data path in configs.py. Copy pretrained models to folder './outputs/best_weights', and run the following command: 
