@@ -1,4 +1,4 @@
-# 3DCDNet: An End-to-end Point-based Method and A New Dataset for Street Level Point Cloud Change Detection
+# [3DCDNet: An End-to-end Point-based Method and A New Dataset for Street Level Point Cloud Change Detection](http://ieeexplore-ieee-org-s.vpn.swjtu.edu.cn:8118/document/10184135)
 
 ![image](https://github.com/wangle53/3DCDNet/assets/79884379/5a5efd38-c2e4-4f60-b670-28b6b51adc08)
 ![image](https://github.com/wangle53/3DCDNet/assets/79884379/7f28673f-579c-43f8-9082-643ea74e6045)
@@ -33,7 +33,18 @@ To display training processing, open 'http://localhost:8097' in your browser.
 ## Experiments on Urb3DCD dataset
 The experiments on Urb3DCD dataset can be found from [this link](https://github.com/wangle53/3DCDNet-Urb3DCD).
 ## Citing 3DCDNet
-If you use this repository or would like to refer the paper, please use the following BibTex entry.
+If you use this repository or would like to refer the paper, please use the following BibTex entry.## Citing TransCD
+```
+@ARTICLE{10184135,
+  author={Wang, Zhixue and Zhang, Yu and Luo, Lin and Yang, Kai and Xie, Liming},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={An End-to-end Point-based Method and A New Dataset for Street Level Point Cloud Change Detection}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TGRS.2023.3295386}}
+```
 ## Reference
 -T. Ku, S. Galanakis, B. Boom et al., SHREC 2021: 3D Point cloud change detection for street scenes, Computers & Graphics, https://doi.org/10.1016/j.cag.2021.07.004  
 -HU, Qingyong, et al. Randla-net: Efficient semantic segmentation of large-scale point clouds. In: Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2020. p. 11108-11117.
