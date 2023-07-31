@@ -38,11 +38,11 @@ If you use this repository or would like to refer the paper, please use the foll
 @ARTICLE{10184135,
   author={Wang, Zhixue and Zhang, Yu and Luo, Lin and Yang, Kai and Xie, Liming},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  title={An End-to-end Point-based Method and A New Dataset for Street Level Point Cloud Change Detection}, 
+  title={An End-to-End Point-Based Method and a New Dataset for Street-Level Point Cloud Change Detection}, 
   year={2023},
-  volume={},
+  volume={61},
   number={},
-  pages={1-1},
+  pages={1-15},
   doi={10.1109/TGRS.2023.3295386}}
 ```
 ## Reference
